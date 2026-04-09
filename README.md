@@ -1,4 +1,4 @@
-# BOM:
+# BOM - ~$40:
 
 ## Controller
 - ESP32-WROOM-32 DevKitC x1
