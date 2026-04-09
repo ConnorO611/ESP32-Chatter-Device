@@ -28,6 +28,7 @@
 - 150Ω 1/4W resistor x1
 ## USB
 - CH340G x1
+- Crystal	12.000 MHz x1
 - 22pF 50V ceramic x2
 - 2N3904 x2
 - USB-C female x1
