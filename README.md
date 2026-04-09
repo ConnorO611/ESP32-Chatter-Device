@@ -2,7 +2,7 @@
 
 ## Controller
 - [ESP32-WROOM-32 DevKitC x1](https://www.amazon.com/ESP32-WROOM-32-Development-ESP-32S-Bluetooth-Arduino/dp/B084KWNMM4?th=1)
-- 10kΩ bussed SIP-9 x4
+- [10kΩ bussed SIP-9 x4](https://www.digikey.com/en/products/detail/bourns-inc/4609X-101-103LF/2634616?utm_campaign=buynow&utm_medium=aggregator&utm_source=snapeda)
 - 100nF 50V ceramic x1
 - 10µF 16V electrolytic x1
 - 4-pin 2.54mm header x1
