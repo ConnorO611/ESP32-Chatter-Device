@@ -1,7 +1,7 @@
 # BOM ~$40:
 
 ## Controller
-- [ESP32-WROOM-32 DevKitC x1](https://www.amazon.com/ESP32-WROOM-32-Development-ESP-32S-Bluetooth-Arduino/dp/B084KWNMM4?th=1)
+- [ESP32-WROOM-32 DevKitC x1](https://www.digikey.com/short/dtwmv43r)
 - [10kΩ bussed SIP-9 x4](https://www.digikey.com/short/b5nc20zh)
 - [100nF 50V ceramic x1](https://mou.sr/42hKORR)
 - [10µF 16V electrolytic x1](https://www.digikey.com/short/w213b4h0)
