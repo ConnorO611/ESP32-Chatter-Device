@@ -7,17 +7,18 @@
 - 10µF 16V electrolytic x1
 - 4-pin 2.54mm header x1
 ## LoRa Radio
-- DL-LLCC68-S-868 LoRa transceiver x1
+- [DL-LLCC68-S-868 LoRa transceiver x1](https://www.iot-rf.com/wireless-lora-module-433-868.html)
 - 100nF 50V ceramic x3
 ## Power Management
-- TP4056 module x1
-- JST-PH 2-pin x1
+- [TP4056 module x1](https://www.amazon.com/HiLetgo-Lithium-Charging-Protection-Functions/dp/B07PKND8KG)
+- [JST-PH 2-pin battery x1](https://www.amazon.com/1000mAh-battery-Rechargeable-Lithium-Connector/dp/B07BTWK13N?th=1)
+- [JST-PH 2-pin receiver x1](https://www.adafruit.com/product/261?srsltid=AfmBOopPKlZxcbWj02G5PwkINu2CSDRfl2edggUWV6k0Bp12faZg9n6Q)
 - 47µF 16V electrolytic x3
 - 10µF 16V electrolytic x2
 - 1kΩ 1/4W resistor x1
 - 2-pin 2.54mm header x1
 ## GPIO expander - Buttons
-- 74HC165N x2
+- [74HC165N x2](https://www.digikey.com/en/products/detail/texas-instruments/SN74HC165N/376966)
 - 6×6mm momentary SPST TH4-pin x15
 - 10kΩ bussed SIP-9 x4
 - 100nF 50V ceramic x2
